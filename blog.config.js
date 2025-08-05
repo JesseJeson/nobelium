@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: 'Histcat\'s Blog',
   author: 'histcat',
   email: 'awa@outlook.hu',
   link: 'https://blog.histcat.top',
@@ -48,7 +48,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: ''
+      repo: 'JesseJeson/issue-comment'
     },
     cusdisConfig: {
       appId: '', // data-app-id
